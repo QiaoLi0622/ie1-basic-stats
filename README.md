@@ -6,6 +6,9 @@ A Java-based implementation for descriptive statistics. This
 implementation is merely intended to be used in software engineering courses.
 
 
+How to build (from Terminal):
+
+
 A Java-based implementation for computing statistics on a set of numbers.
 This implementation is intended to be used in software engineering courses as
 a subject software system.
@@ -15,7 +18,11 @@ How to build: TBD
 
 How to run: TBD
 
+
 Features: TBD
+
+How to run (from Terminal):
+
 
 Basic Statistics is a Java-based implementation for computing statistics on a set of numbers.
 This implementation is intended to be used in software engineering courses as
