@@ -27,8 +27,6 @@ Basic Statistics uses the Apache Ant build system. **Make sure that you have [An
 
 5. Run `ant clean` whenever you want to clean up the project (i.e., delete all generated files).
 
-5. Run `ant -lib lib/ test` to run all Basic Statistics unit tests.
-
 
 
 #### How to run Basic Statistics from the terminal:
@@ -37,8 +35,13 @@ Basic Statistics uses the Apache Ant build system. **Make sure that you have [An
 
 #### Program features:
 
+How to run Basic Statistics (from the terminal):
+
+1. After building the project (i.e., running `ant`), cd into the `bin` directory and run: `java BasicStats`. The application's GUI will show up.
+
+
 Program features:
->>>>>>> 0f983c1 (tweaked the program features description)
+
 * Displays a set of entered numbers.
 * Computes the mean of the set of numbers.
 * Computes the median of the set of numbers.
