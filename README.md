@@ -30,15 +30,20 @@ Basic Statistics uses the Apache Ant build system. **Make sure that you have [An
 5. Run `ant -lib lib/ test` to run all Basic Statistics unit tests.
 
 
+
 #### How to run Basic Statistics from the terminal:
 
 1. After building the project (i.e., running `ant compile`), run: `java -cp bin BasicStats`. The application's GUI will show up.
 
 #### Program features:
+
+Program features:
+>>>>>>> 0f983c1 (tweaked the program features description)
 * Displays a set of entered numbers.
 * Computes the mean of the set of numbers.
 * Computes the median of the set of numbers.
 * Computes the mode of the set of numbers.
+
 
 ## Troubleshooting
 
@@ -57,4 +62,6 @@ BUILD FAILED
 build.xml:17 Unable to find a javac compiler;
 ```
 Make sure that you have a JDK installed and that the JAVA_HOME environment variable is properly set.
+
+
 
