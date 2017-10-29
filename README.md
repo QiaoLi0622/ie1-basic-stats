@@ -24,7 +24,11 @@ Basic Statistics uses the Apache Ant build system. **Make sure that you have [An
 
 4. Run `ant test` to run all Basic Statistics unit tests.
 
+
 5. Run `ant clean` whenever you want to clean up the project (i.e., delete all generated files).
+
+5. Run `ant -lib lib/ test` to run all Basic Statistics unit tests.
+
 
 #### How to run Basic Statistics from the terminal:
 
